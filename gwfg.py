@@ -10,3 +10,6 @@ with tab1:
 with tab2:
   st.header("A dog")
   st.image("https://static.streamlit.io/examples/dog.jpg", width=200)
+with tab3:
+  st.header("A tiger")
+  st.image("https://static.streamlit.io/examples/tiger.jpg", width=200)
